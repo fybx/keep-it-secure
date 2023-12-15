@@ -1,0 +1,6 @@
+# Python environment
+.venv
+
+# secret configuration file
+./config.toml
+!./schemas/config.toml
